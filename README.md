@@ -2,11 +2,10 @@
 
 ## 👩🏻‍💻 팀원 소개  
 
-|박한백|김정훈|이상기|윤희정|
+|최용원|박연환|김정희|박성호|
 |:---:|:---:|:---:|:---:|:---:|
-|<img alt="시몬" src="https://github.com/indiego-project/.github-private/assets/80394894/9c170530-549a-4cec-ae7f-be66c6e2c34a" height="120" width="120">|<img alt="박한백" src="https://github.com/indiego-project/.github-private/assets/80394894/b0036eaa-7167-4bc7-b515-61429300f3cc" height="120" width="120">|<img alt="김정훈" src="https://user-images.githubusercontent.com/80394894/215561204-8e085531-f851-48d4-bb3e-e8aad142565a.png" height="120" width="120">|<img alt="이상기" src="https://user-images.githubusercontent.com/80394894/215561134-da53fca5-b85c-4d2f-b077-e83a707f3de0.png" height="120" width="120">|<img alt="윤희정" src="https://user-images.githubusercontent.com/80394894/215555107-23fa07fe-fe13-4fe2-8c2f-572ba9f3917c.png" height="120" width="120">|
+|<img alt="최용원" src="https://github.com/indiego-project/.github-private/assets/80394894/b0036eaa-7167-4bc7-b515-61429300f3cc" height="120" width="120">|<img alt="박연환" src="https://user-images.githubusercontent.com/80394894/215561204-8e085531-f851-48d4-bb3e-e8aad142565a.png" height="120" width="120">|<img alt="김정희" src="https://user-images.githubusercontent.com/80394894/215561134-da53fca5-b85c-4d2f-b077-e83a707f3de0.png" height="120" width="120">|<img alt="박성호" src="https://user-images.githubusercontent.com/80394894/215555107-23fa07fe-fe13-4fe2-8c2f-572ba9f3917c.png" height="120" width="120">|
 |**Mentor**|**FE**|**FE**|**BE**|**BE**|
-
 </br>
 
 ## 🎸 서비스 소개
