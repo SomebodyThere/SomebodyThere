@@ -5,7 +5,7 @@
 |박한백|김정훈|윤희정|이상기|
 |:---:|:---:|:---:|:---:|
 |<img alt="박한백" src="https://user-images.githubusercontent.com/80394894/215561204-8e085531-f851-48d4-bb3e-e8aad142565a.png" height="120" width="120">|<img alt="김정훈" src="https://user-images.githubusercontent.com/80394894/215561204-8e085531-f851-48d4-bb3e-e8aad142565a.png" height="120" width="120">|<img alt="윤희정" src="https://user-images.githubusercontent.com/80394894/215561134-da53fca5-b85c-4d2f-b077-e83a707f3de0.png" height="120" width="120">|<img alt="이상기" src="https://user-images.githubusercontent.com/80394894/215555107-23fa07fe-fe13-4fe2-8c2f-572ba9f3917c.png" height="120" width="120">|
-|**FE**|**FE**|**FE**|**BE**|*FE**|
+|**조장**|**조원**|**조원**|**조원**|
 
 ## 🚌 서비스 소개
 - 자율주행 시내버스가 곧 등장할 것으로 예상합니다.
