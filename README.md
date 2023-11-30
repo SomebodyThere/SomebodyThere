@@ -30,7 +30,7 @@
 </br>
 
 ## 🔗 배포 링크
--  
+-  Demo API : https://port-0-busstoppingsystem-testdeploy-cn1vmr2clp6kovfo.sel5.cloudtype.app/api/
 </br>
 
 ## 📌 기술 스택 및 아키텍처
@@ -39,6 +39,7 @@
 
 </br>
 </br>
+
 ## 📓 ERD
 
 ![자율주행 시내버스의 정차 시스템 개발 erd 다이어그램](https://raw.githubusercontent.com/SomebodyThere/SomebodyThere/main/erd.png)
@@ -49,10 +50,7 @@
 </br>
 
 ## 📚 UserFlow
-||||
-|:---:|:---:|
-|**비로그인 유저**|**일반회원(로그인 유저)**|
-|<>|<>|
+- 
 </br>
 
 ## ✨ 서비스 구현
