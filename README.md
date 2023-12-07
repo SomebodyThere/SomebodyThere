@@ -43,7 +43,6 @@
 ## 📓 ERD
 
 ![자율주행 시내버스의 정차 시스템 개발 erd 다이어그램](https://raw.githubusercontent.com/SomebodyThere/SomebodyThere/main/erd.png)
-![자율주행 시내버스의 정차 시스템 개발 erd 다이어그램]()
 
 
 </br>
